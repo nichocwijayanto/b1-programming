@@ -1,0 +1,21 @@
+[14/Mar/2024:10:15:24 -0400] FAILED AUTH: 192.168.1.101
+[14/Mar/2024:11:00:08 -0400] FAILED AUTH: 192.168.1.120
+[14/Mar/2024:11:00:15 -0400] FAILED AUTH: 192.168.1.120
+[14/Mar/2024:11:01:02 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:11:01:02 -0400] FAILED AUTH: 203.0.113.77
+[14/Mar/2024:11:01:03 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:11:01:03 -0400] FAILED AUTH: 203.0.113.77
+[14/Mar/2024:11:01:04 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:11:01:04 -0400] FAILED AUTH: 203.0.113.77
+[14/Mar/2024:11:01:05 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:11:01:05 -0400] FAILED AUTH: 203.0.113.77
+[14/Mar/2024:11:01:05 -0400] !!! BRUTE FORCE DETECTED !!! IP: 203.0.113.77 has 4 failed attempts.
+[14/Mar/2024:11:01:06 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:11:01:06 -0400] FAILED AUTH: 203.0.113.77
+[14/Mar/2024:11:01:06 -0400] !!! BRUTE FORCE DETECTED !!! IP: 203.0.113.77 has 5 failed attempts.
+[14/Mar/2024:11:03:01 -0400] ALERT: 198.51.100.88 used suspicious agent: sqlmap/1.6.12#stable
+[14/Mar/2024:11:03:03 -0400] ALERT: 198.51.100.88 used suspicious agent: sqlmap/1.6.12#stable
+[14/Mar/2024:11:03:05 -0400] ALERT: 198.51.100.88 used suspicious agent: sqlmap/1.6.12#stable
+[14/Mar/2024:11:03:05 -0400] FAILED AUTH: 198.51.100.88
+[14/Mar/2024:11:04:01 -0400] ALERT: 203.0.113.77 used suspicious agent: curl/7.68.0
+[14/Mar/2024:10:15:42 -0400] ALERT: 192.168.1.103 used suspicious agent: curl/7.81.0

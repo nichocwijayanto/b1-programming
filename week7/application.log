@@ -1,0 +1,21 @@
+2026-02-24 15:10:08 - INFO - Successfully opened products.txt for reading.
+2026-02-24 15:10:08 - DEBUG - Processed price for Laptop Computer: 999.99
+2026-02-24 15:10:08 - DEBUG - Processed price for Winter Jacket: 129.99
+2026-02-24 15:10:08 - DEBUG - Processed price for Python Programming Book: 49.99
+2026-02-24 15:10:08 - DEBUG - Processed price for Coffee Maker: 79.99
+2026-02-24 15:10:08 - DEBUG - Processed price for Wireless Headphones: 199.99
+2026-02-24 15:10:08 - INFO - Pricing report generated successfully.
+2026-02-24 17:45:22 - INFO - Successfully opened products.txt for reading.
+2026-02-24 17:45:22 - DEBUG - Processed price for Laptop Computer: 999.99
+2026-02-24 17:45:22 - DEBUG - Processed price for Winter Jacket: 129.99
+2026-02-24 17:45:22 - DEBUG - Processed price for Python Programming Book: 49.99
+2026-02-24 17:45:22 - DEBUG - Processed price for Coffee Maker: 79.99
+2026-02-24 17:45:22 - DEBUG - Processed price for Wireless Headphones: 199.99
+2026-02-24 17:45:22 - INFO - Pricing report generated successfully.
+2026-02-24 17:45:32 - INFO - Successfully opened products.txt for reading.
+2026-02-24 17:45:32 - DEBUG - Processed price for Laptop Computer: 999.99
+2026-02-24 17:45:32 - DEBUG - Processed price for Winter Jacket: 129.99
+2026-02-24 17:45:32 - DEBUG - Processed price for Python Programming Book: 49.99
+2026-02-24 17:45:32 - DEBUG - Processed price for Coffee Maker: 79.99
+2026-02-24 17:45:32 - DEBUG - Processed price for Wireless Headphones: 199.99
+2026-02-24 17:45:32 - INFO - Pricing report generated successfully.

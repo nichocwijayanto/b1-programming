@@ -1,0 +1,210 @@
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 18:56:45 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:56:45 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:56:45 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:56:45 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:56:45 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 18:56:45 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 18:56:45 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 18:57:07 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:57:07 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:07 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:07 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:07 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 18:57:07 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 18:57:07 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 18:57:26 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:57:26 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:26 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:57:26 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:57:26 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 18:57:26 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 18:57:26 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 18:59:00 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 18:59:00 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:59:00 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 18:59:00 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 18:59:00 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 18:59:00 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 18:59:00 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 19:00:49 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 19:00:49 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:00:49 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:00:49 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:00:49 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 19:00:49 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 19:00:49 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 192.168.1.101. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - INFO - Failed login attempt from 192.168.1.101
+2026-02-24 19:02:46 - WARNING - HTTP 403 error recorded for IP 192.168.1.102. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 192.168.1.120. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - INFO - Failed login attempt from 192.168.1.120
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 203.0.113.77. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - INFO - Failed login attempt from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - SECURITY ALERT: Brute force detected from 203.0.113.77
+2026-02-24 19:02:46 - WARNING - HTTP 403 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - HTTP 404 error recorded for IP 198.51.100.42. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:02:46 - WARNING - HTTP 401 error recorded for IP 198.51.100.88. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 198.51.100.88: sqlmap/1.6.12#stable
+2026-02-24 19:02:46 - INFO - Failed login attempt from 198.51.100.88
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 203.0.113.77: curl/7.68.0
+2026-02-24 19:02:46 - WARNING - HTTP 500 error recorded for IP 192.168.1.103. See 'error_log.txt' for further details.
+2026-02-24 19:02:46 - WARNING - Suspicious activity from 192.168.1.103: curl/7.81.0
+2026-02-24 19:02:46 - ERROR - PARSING ERROR: Line does not match Apache format. Content: ''
