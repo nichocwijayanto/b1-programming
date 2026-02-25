@@ -48,7 +48,7 @@ try:
                 continue
             agent = match.group(7)
 
-            if status_code >= 400:
+            if status_code >= 400:  #also captures 500
                 f_err.write(line)
                 logging.warning(f"HTTP {status_code} error recorded for IP {ip}. See 'error_log.txt' for further details.")
             

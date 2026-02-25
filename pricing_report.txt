@@ -1,7 +1,0 @@
-
-=== FINAL ITEM PRICE (AFTER DISCOUNT) ===
-
-Product Name              | Base Price | Discounts Applied | Discount Amount | Final Price |
---------------------------------------------------------------------------------------------
-
-
