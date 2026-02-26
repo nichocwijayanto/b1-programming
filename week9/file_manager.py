@@ -23,7 +23,13 @@ print(f"\nCurrent working directory:\n{current_path}")
 files_to_create = ["file1.txt", "file2.txt", "file3.txt"]
 print("\nCreating files...")
 for file in files_to_create:
-    fd = os.open(file, os.O_CREAT | os.O_WRONLY)
+    # os.open() has to be given an access flag (O_RDONLY, O_WRONLY, O_RDWR)
+    # os.O_CREAT -> if file doesn't exist yet, create it
+    # os.O_WRONLY -> specifies access mode. 
+    # "write only" is the most efficient permission to request, for an empty file. 
+    
+    # this logic mimics "touch" command. 
+    fd = os.open(file, os.O_CREAT | os.O_WRONLY) #-> "create a file so I could write to it."
     os.close(fd)
     print(f"- {file} created.")
 
