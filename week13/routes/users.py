@@ -14,12 +14,13 @@ DB_FILE = "users.txt"
 def read_users():
     if not os.path.exists(DB_FILE):
         return []
-    with open(DB_FILE, "r") as f:
-        try:
+    
+    try:
+        with open(DB_FILE, "r") as f:
             # converts texts inside into a Python list for manipulation. 
             return json.load(f)
-        except json.JSONDecodeError:
-            return []
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
 
 # Takes the list of users and saves it back to the text file.
 def write_users(users):
