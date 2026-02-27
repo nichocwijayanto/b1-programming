@@ -1,10 +1,11 @@
+# This file is where all the action happens (for a user). 
 import json
 import os
 from fastapi import APIRouter, HTTPException
-from schema import User, UserCreate
+from schema import User, UserCreate     # imports from file schema.py the class User & UserCreate
 
-# 'router' acts like a mini-app just for user tasks.
-router = APIRouter()
+# 'router' acts like a mini-app ('Department Manager') just for user tasks.
+router = APIRouter()    # groups all user end points together. 
 
 # database file
 DB_FILE = "users.txt"
@@ -35,6 +36,7 @@ def get_next_id(users):
     return max(user['id'] for user in users) + 1
 
 # POST /users - Create a new user
+# bcs of prefix="/users" on 'main.py', no need to type /users anymore. It's glued to the front of it already. 
 @router.post("/", response_model=User)  #-> .post() -> send data. Turns the code to a URL instead of normal function. 
 def create_user(user_in: UserCreate):
     users = read_users()                # grab current list from text file.
@@ -45,7 +47,7 @@ def create_user(user_in: UserCreate):
         "email": user_in.email          # take email from the request.
     }
 
-    users.append(new_user)              # (?) add them to python list. 
+    users.append(new_user)              # add them to python list. 
     write_users(users)                  # overwrite the text file with the updated list.
     return new_user                     # send new user back to the screen.
 
@@ -63,8 +65,9 @@ def search_users(q: str):
     results = [u for u in users if q.lower() in u['name'].lower()]
     return results
 
+# GET /users/id
 @router.get("/{id}", response_model=User)
-def get_user_by_id(id: int):
+def get_user_by_id(id: int):    # Type hint. Validation & Casting. 
     users = read_users()
 
     for user in users:
@@ -91,9 +94,9 @@ def delete_user(id: int):
     users = read_users()
 
     # create a new list that includes everyone EXCEPT the person we want to delete.
+    # this filter is more efficient than using remove(), bcs remove() requires the exact object.
     new_users = [u for u in users if u['id'] != id]
-
-    if len(new_users) == len(users):     # (?) LOGIC???
+    if len(new_users) == len(users): # if the len(list) is still the same, no changes happened.
         raise HTTPException(status_code=404, detail="User not found")
     
     write_users(new_users)  # save the shorter list

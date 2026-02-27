@@ -1,3 +1,4 @@
+# This file is a rulebook. It defines data validation models.
 from pydantic import BaseModel
 
 # Rule for CREATEing a user (no id yet)
